@@ -1,0 +1,18 @@
+{
+  "name": "Sony WH-1000XM5 Wireless Headphones",
+  "description": "Premium noise-canceling wireless over-ear headphones, lightly used, mint condition with original box.",
+  "specs": {
+    "color": "Black",
+    "battery_life": "30 hours",
+    "connectivity": "Bluetooth 5.2 / 3.5mm jack",
+    "condition": "Like New"
+  },
+  "list_price": 280,
+  "currency": "USD",
+  "stock": 1,
+  "floor_price": 220,
+  "discount_rules": {
+    "max_discount_percent": 21.4
+  },
+  "seller_notes": "Firm on floor price. Free shipping included."
+}
