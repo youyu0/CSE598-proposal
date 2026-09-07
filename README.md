@@ -87,10 +87,6 @@ ANTHROPIC_MODEL=claude-3-7-sonnet-20250219
 DEFAULT_PROVIDER=gemini
 ```
 
-> [!WARNING]
-> Never commit your `.env` file or expose your API keys in public repositories. Ensure `.env` is listed in your `.gitignore`.
-
----
 
 ## Usage Guide
 
